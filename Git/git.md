@@ -6,3 +6,5 @@ git clone *
 git --version
 git clean -df
 git checkout .
+
+git clean -df&&git checkout .
