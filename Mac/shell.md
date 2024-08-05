@@ -17,3 +17,19 @@ sudo gem update --system // 如果pod无法更新到最新
 sudo gem uninstall cocoapods
 sudo gem install cocoapods
 pod --version
+
+# 查看ip
+ifconfig
+ipconfig getifaddr en0
+
+
+# www 目录
+sudo apachectl start
+
+python3 -m http.server 8000  
+
+# 合上盖子
+sudo pmset -a disablesleep 1
+
+sudo pmset -a disablesleep 0
+pmset -g
