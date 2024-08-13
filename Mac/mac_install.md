@@ -12,3 +12,6 @@ sudo gem install cocoapods -n /usr/local/bin
 # 安装 ruby
 brew install ruby
 
+# 安装 rsync
+brew install rsync
+
