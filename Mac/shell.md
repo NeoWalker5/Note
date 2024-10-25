@@ -33,3 +33,9 @@ sudo pmset -a disablesleep 1
 
 sudo pmset -a disablesleep 0
 pmset -g
+
+# 密码文件权限
+chmod 600 pass/rsyncd.secrets
+
+# 安装ipa
+ideviceinstaller -i /path/to/yourapp.ipa

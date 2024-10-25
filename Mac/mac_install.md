@@ -15,3 +15,8 @@ brew install ruby
 # 安装 rsync
 brew install rsync
 
+# 安装 php
+brew install php
+
+# 安装 .net sdk
+brew install --cask dotnet-sdk
